@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab12</string>
+    <string name="SecondActivity">Second Activity</string>
+    <string name="ShowVideo">Show Video</string>
+</resources>
